@@ -1,6 +1,6 @@
 # MiniShell – Custom Unix-like Shell in C
 
-This repository contains a custom-built shell program implemented in C, developed as part of the Operating Systems course at UC3M (2024–2025). The shell supports basic command execution, history management, and internal commands like `mycalc` and `myhistory`.
+This repository contains a custom-built shell program implemented in C, developed as part of the Operating Systems course at UC3M (2023–2024). The shell supports basic command execution, history management, and internal commands like `mycalc` and `myhistory`.
 
 ## 🧩 Components
 
